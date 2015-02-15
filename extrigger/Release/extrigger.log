@@ -1,0 +1,11 @@
+﻿Build started 6/15/2014 6:55:03 PM.
+     1>Project "F:\project\Payload Projects\extrigger\extrigger.vcxproj" on node 6 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /nologo /W0 /WX- /O2 /Oy- /GL /D CODE_ANALYSIS /D WIN32 /D NDEBUG /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _USE_32BIT_TIME_T /D _WINDLL /D _MBCS /Gm- /MT /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /wd4996 /analyze /analyze:plugin"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\\bin\localespc.dll" /errorReport:prompt   /analyze:quiet extrigger.c
+         extrigger.c
+     1>extrigger.c(18): fatal error C1083: Cannot open include file: '..\includes.h': No such file or directory
+     1>Done Building Project "F:\project\Payload Projects\extrigger\extrigger.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.18
